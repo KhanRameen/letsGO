@@ -10,10 +10,9 @@
 
 - _fmt. for print. seriously?_
 
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmV0N2t6bDlzNnFhMncybm8zdng5dXVuNXhqMjJ6NXY1OGR2b2M0YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9ANftvjti1SPm/giphy.gif
-  " alt="Stage 1 Demo" width="100"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmV0N2t6bDlzNnFhMncybm8zdng5dXVuNXhqMjJ6NXY1OGR2b2M0YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9ANftvjti1SPm/giphy.gif" alt="Stage 1 Demo" width="100"/>
 
-- _okay they werent lying about the strongly typed shi_
+- _okay they were'nt lying about the strongly typed shi_
 - _kinda runes the point of len but who am i to judge_
 
 **Day 2:**

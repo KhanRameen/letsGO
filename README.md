@@ -21,10 +21,18 @@
 - _and map iteration is orderless..? we here betting who comes first. nice feature i guess_
 - _so no while loop but a for with if and break. perfect! (one more keyword wouldnt have hurt)_
 
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTRrbGQ3dGx2ZXRkcHFrZ3VmbmRzYnJrbGJ2eHhleWtjZm83dnAxZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cPKWZB2aaB3rO/giphy.gif" alt="Stage 1 Demo" width="100"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTRrbGQ3dGx2ZXRkcHFrZ3VmbmRzYnJrbGJ2eHhleWtjZm83dnAxZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cPKWZB2aaB3rO/giphy.gif" alt="Stage 1 Demo" width="80"/>
 
 - _Ooo I do see what capacity can to. Interesting_
 - _Also I get the point of len and runes.. this is actually fun_
 - _Importing strings took me back to good old java days_
 - _structs, last seen on DSA in C++ (painful ahh course)_
--
+
+**Day 3:**
+
+- _Pointers.. My favorite_\
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDJjYmlrZ3B4MmZqaXk0MHA3NTZqNm5pcXh1MWt4OGs1czl0eG5keCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H6cmWzp6LGFvqjidB7/giphy.gif" alt="Stage 1 Demo" width="80"/>
+- _asteriks hell.. just what i needed <3_
+- _so now I gotta digest the concept of slices as pointers to an underlying array as well_
+
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTZmNWpxM3JyZXFocTk2bW5wN3gydHg3bnNiODB4dWxwcGJoYm14diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5XeQN6TZknf5cDJVBq/giphy.gif" alt="Stage 1 Demo" width="80"/>

@@ -9,7 +9,8 @@ import (
 
 func main() {
 	// basics()
-	notSoBasics()
+	// notSoBasics()
+	goroutines()
 }
 
 func basics() {

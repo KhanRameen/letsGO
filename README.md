@@ -66,4 +66,4 @@
 
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWo5Zmg0Z216Y2pjYnRtZmVoaGk4bGtzZTY3MjF2Y3N2ZWZoeTNkbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oriNSf2iLjMVO7dao/giphy.gif" alt="explode" width="130"/>
 
-- _channels are really channeling some kernel energy for processes_
+- _channels are really channeling some kernel energy for working with processes_

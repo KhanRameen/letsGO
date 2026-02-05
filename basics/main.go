@@ -10,7 +10,8 @@ import (
 func main() {
 	// basics()
 	// notSoBasics()
-	goroutines()
+	// goroutines()
+	channels()
 }
 
 func basics() {

@@ -58,7 +58,7 @@
 - _these wait groups are so cool_
 - _glad i took the OS lectures seriously huhu_
 
-<!-- **Day 5:**
+**Day 5:**
 
 - _what are the odds.. we talking about communication today_
 
@@ -68,4 +68,10 @@
 
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWo5Zmg0Z216Y2pjYnRtZmVoaGk4bGtzZTY3MjF2Y3N2ZWZoeTNkbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oriNSf2iLjMVO7dao/giphy.gif" alt="explode" width="130"/>
 
-- _channels are really channeling some kernel energy for working with processes_ -->
+- _channels are really channeling some kernel energy for working with processes_
+
+**Day 6:**
+- *building api today and its nothing cute*
+- *i love js*
+
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnFydHN0OWNtZXhhb3VmdjdxMG9pbHVqeHplZzkwejBiOThjbXpibSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGcjUQcWclgK94ti/giphy.gif" alt="explode" width="110"/>

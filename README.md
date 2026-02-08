@@ -72,6 +72,7 @@
 
 **Day 6:**
 - *building api today and its nothing cute*
+- *.... I know ... I know but i dont know. . .*
 - *i love js*
 
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnFydHN0OWNtZXhhb3VmdjdxMG9pbHVqeHplZzkwejBiOThjbXpibSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGcjUQcWclgK94ti/giphy.gif" alt="explode" width="110"/>

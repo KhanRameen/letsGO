@@ -133,10 +133,11 @@ func checkChickenPrices(websites string, c chan string) {
 
 func sendMessage(chickenChannel chan string, tofuChannel chan string){
 	select{
-	case websites := <-chickenChannel
+	case websites := <- chickenChannel:
 		fmt.Println("Deal in chicken at website", websites)
 	
-	case websites := <- tofuChannel
+	case websites := <- tofuChannel:
 		fmt.Println("Deal in tofu at website", websites)
 	}
 }
+

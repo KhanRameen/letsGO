@@ -70,9 +70,20 @@
 
 - _channels are really channeling some kernel energy for working with processes_
 
-**Day 6:**
+---
+### Build with go
+
+**Day 6: Api with Go**
 - *building api today and its nothing cute*
 - *.... I know ... I know but i dont know. . .*
 - *i love js*
 
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnFydHN0OWNtZXhhb3VmdjdxMG9pbHVqeHplZzkwejBiOThjbXpibSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGcjUQcWclgK94ti/giphy.gif" alt="explode" width="110"/>
+
+
+**Day 7:Todos**
+  - *gonna marshal all my "imma do it later" task here*
+
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTY2dzl2NDUzZTQ2aHpob2ZiNnZmeWhqang0Z2FvZGIxdDBxdDE2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10spcFioEOY7zG/giphy.gif" alt="explode" width="100"/>
+
+- *omg.. finally a place where im allowed to panic*

@@ -2,6 +2,14 @@
 
 (you'll only find practice stuff here)
 
+**Projects:**
+```tree 
+builds/
+│── api-with-go 
+│── todo-cli 
+│── worker-pool
+```
+
 ## My thoughts as i Go!
 
 ### Basics
@@ -72,7 +80,10 @@
 
 ---
 
-### Go Builds
+
+**Go Builds**
+-
+
 
 **Day 6: Api with Go**
 
@@ -89,3 +100,8 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTY2dzl2NDUzZTQ2aHpob2ZiNnZmeWhqang0Z2FvZGIxdDBxdDE2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10spcFioEOY7zG/giphy.gif" alt="explode" width="100"/>
 
 - _omg.. finally a place where im allowed to panic_
+
+
+**Day Icamebackafterawhile-8: Worker Pool**
+- lets learn the sauce
+

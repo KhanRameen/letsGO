@@ -29,7 +29,7 @@ func loadTodos() ([]Todo, error) {
 }
 
 func saveTodos(todos []Todo) error {
-	data , err := json.MarshalIndent(todos, "", "  ") 
+	data , err := json.MarshalIndent(todos, "", "  ") //turns go data to json but with formatiing , (data, newline prefix, indentation)
 	if err!= nil {
 		return err
 	}

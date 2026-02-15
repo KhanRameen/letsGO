@@ -30,7 +30,7 @@ func main() {
 }
 
 func addTodo(args []string) {
-	if len(args) < 2 {
+	if len(args) < 1 {
 		fmt.Println("Provide todo title")
 		return
 	}

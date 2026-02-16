@@ -4,18 +4,22 @@ import (
 	"fmt"
 	"net/http"
 	"sync"
+	"time"
 )
 
  var maxRetries = 3
 
 func worker(id int, jobs <-chan string, results chan<- string, wg *sync.WaitGroup) {  // worker receives jobs: <-chan string, wokder sends results: chan<- string
 	defer wg.Done() //decrement the wait group counter when the worker is done
+	
+	rateLimit := time.Tick(500*time.Millisecond) //1 req per 500ms
+
 
 	for url := range jobs { //range over the jobs channel to receive jobs until it's closed{}
 	retries := 0
-	
+	<-rateLimit //wait for the rate limit ticker before making the next request	
 	for{
-		fmt.Printf("Worker %d checking %s\n Attempt %d", id, url, retries) //%d:int , %s:string	
+		fmt.Printf("Worker %d checking %s\n Attempt %d\n", id, url, retries) //%d:int , %s:string	
 		
 		resp , err := http.Get(url) //make an HTTP GET request to the URL
 		if err != nil {

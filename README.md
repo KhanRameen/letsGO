@@ -3,10 +3,11 @@
 (you'll only find practice stuff here)
 
 **Projects:**
-```tree 
+
+```tree
 builds/
-│── api-with-go 
-│── todo-cli 
+│── api-with-go
+│── todo-cli
 │── worker-pool
 ```
 
@@ -80,10 +81,7 @@ builds/
 
 ---
 
-
-**Go Builds**
--
-
+## **Go Builds**
 
 **Day 6: Api with Go**
 
@@ -101,7 +99,9 @@ builds/
 
 - _omg.. finally a place where im allowed to panic_
 
-
 **Day Icamebackafterawhile-8: Worker Pool**
-- lets learn the sauce
 
+- lets build with the sauce
+- ukw.. ill go really low from here, I'll learn linux too :)
+
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2J2YXNrcHk2YXdidW1icTF3dWM1eGh1dDB4c3FzdHV4a2ZwN3QxayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yr7n0u3qzO9nG/giphy.gif" alt="explode" width="100"/>
